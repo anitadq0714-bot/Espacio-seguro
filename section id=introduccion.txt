@@ -1,0 +1,4 @@
+<section id="introduccion">
+  <h2>Introducción</h2>
+  <p>Texto o contenido que quieras mostrar aquí.</p>
+</section>
